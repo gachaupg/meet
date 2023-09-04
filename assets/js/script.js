@@ -6,6 +6,7 @@ let count = 0;
 let myVideoStream; //the video stram is stored in this variable
 const myVideo = document.createElement('video'); //div which contains the video
 let currentPeer = null;
+let admin=false;
 myVideo.muted = true;
 const peers = {};
 const names = {};
