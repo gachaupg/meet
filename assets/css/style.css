@@ -116,12 +116,12 @@ button {
 }
 
 video {
-    /* width: 500px;
+    width: 250px;
     height: 150px;
     object-fit: cover;
     border-radius: .5rem;
     margin: .5rem;
-    cursor: pointer; */
+    cursor: pointer;
 }
 
 .user-video:hover {
